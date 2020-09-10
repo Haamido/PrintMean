@@ -14,7 +14,7 @@ public class PrintMean {
 
     public static String meanCalc(int a, int b, int c, int d) {
         int mean = (a + b + c + d) / 4;
-        String meanString = "";
+        String meanString = "", + mean;
 
         return meanString;
 
